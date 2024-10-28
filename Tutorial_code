@@ -1,0 +1,18 @@
+#ProstT5 Embedding and Classification Tutorial
+
+This tutorial guides you through generating embeddings using ProstT5 and classifying DNA binding sequences using multilayer perceptron (MLP) network. This repository includes a single script with detailed explanations to help you understand each step.
+
+## Dataset
+The dataset is available at [Dataset Link](your_dataset_link_here).
+
+## Requirements
+- torch
+- numpy
+- prostT5
+- scikit-learn
+
+# Import necessary libraries
+import torch
+import numpy as np
+from prost5 import ProST5
+from sklearn.metrics import accuracy_score
