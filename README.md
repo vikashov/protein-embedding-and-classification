@@ -5,8 +5,8 @@ This tutorial guides you through generating embeddings using ProstT5 and classif
 ## Dataset
 The dataset is available at [Dataset Link](your_dataset_link_here).
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/prost5_classification_tutorial.git
-   cd prost5_classification_tutorial
+1. ### Requirements
+- torch
+- numpy
+- prostT5
+- scikit-learn
