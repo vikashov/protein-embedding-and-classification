@@ -12,4 +12,6 @@ The dataset is available at [Dataset Link](https://deepwet-dna.monarcatechnical.
 - scikit-learn
 - Bio
 - regex protobuf
-  
+
+## Refrences
+[1] Heinzinger, Michael, et al. "Prostt5: Bilingual language model for protein sequence and structure. bioRxiv." (2023): 2023-07
