@@ -1,6 +1,6 @@
 # ProstT5 Embedding and Classification Tutorial
 
-This tutorial guides you through generating embeddings using ProstT5 and classifying DNA binding sequences with a Multilayer perceptron (MLP) classifier. This repository includes a single script with detailed explanations to help you understand each step.
+This tutorial guides you through generating embeddings using ProtT5 and classifying DNA binding sequences with a Multilayer perceptron (MLP) classifier. This repository includes a single script with detailed explanations to help you understand each step.
 
 ## Dataset
 The dataset is available at [Dataset Link](https://deepwet-dna.monarcatechnical.com/data).
@@ -8,10 +8,10 @@ The dataset is available at [Dataset Link](https://deepwet-dna.monarcatechnical.
 1. ### Requirements
 - torch
 - numpy
-- prostT5 model from huggingface
+- protT5 model from huggingface
 - scikit-learn
 - Bio
 - regex protobuf
 
 ## References
-[1] Heinzinger, Michael, et al. "Prostt5: Bilingual language model for protein sequence and structure. bioRxiv." (2023): 2023-07
+[1] Elnaggar, Ahmed, et al. "Prottrans: Toward understanding the language of life through self-supervised learning." IEEE transactions on pattern analysis and machine intelligence 44.10 (2021): 7112-7127.
